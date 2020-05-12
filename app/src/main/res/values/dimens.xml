@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <dimen name="dollar_sign_size">40sp</dimen>
+    <dimen name="cash_out">40sp</dimen>
+    <dimen name="coins_weight">80dp</dimen>
+    <dimen name="coins_height">80dp</dimen>
+</resources>

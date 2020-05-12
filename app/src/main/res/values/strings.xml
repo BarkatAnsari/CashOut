@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">CashOut</string>
+    <string name="dollar">$</string>
+    <string name="cash_out">CASH OUT</string>
+</resources>
